@@ -1,4 +1,4 @@
-// Copyright Ayush Singh 2021,2022. All Rights Reserved.
+// Copyright Chetan 2021,2022. All Rights Reserved.
 // Project: folio
 // Author contact: https://www.linkedin.com/in/alphaayush/
 // This file is licensed under the MIT License.
@@ -96,8 +96,8 @@ const SkillsSection = () => {
             key={skill}
             src={`/skills/${skill}.svg`}
             alt={skill}
-            width={76}
-            height={76}
+            width={85}
+            height={80}
             className="skill"
           />
         ))}

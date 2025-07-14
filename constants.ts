@@ -1,11 +1,6 @@
-// Copyright Ayush Singh 2021,2022. All Rights Reserved.
-// Project: folio
-// Author contact: https://www.linkedin.com/in/alphaayush/
-// This file is licensed under the MIT License.
-// License text available at https://opensource.org/licenses/MIT
-
+ 
 export const METADATA = {
-  title: "Portfolio | Ayush Singh",
+  title: "Portfolio | Chetan",
   description:
     "I bridge the gap between design and development. I take responsibility to craft an aesthetic user experience using modern frontend architecture.",
   siteUrl: "https://ayushsingh.net/",
@@ -36,23 +31,19 @@ export const MENULINKS = [
 
 export const TYPED_STRINGS = [
   "I design and develop things",
-  "I develop modern frontend apps",
+  "I develop modern frontend Websites",
   "I design dynamic user experience",
   "I design and develop motion",
 ];
 
-export const EMAIL = "ayush.singh.xda@gmail.com";
+export const EMAIL = "chetank8202739@gmail.com";
 
 export const SOCIAL_LINKS = {
   linkedin: "https://www.linkedin.com/in/alphaayush/",
   github: "https://github.com/ayush013",
-  medium: "https://alphaayush.medium.com/",
-  instagram: "https://www.instagram.com/alphaayush/",
-  facebook: "https://www.facebook.com/ayush013",
-  dribbble: "https://dribbble.com/alphaayush",
-  behance: "https://www.behance.net/alphaayush/",
-  twitter: "https://twitter.com/ayush013",
-  topmate: "https://www.topmate.io/alphaayush/",
+  instagram: "https://www.instagram.com/alphaayush/", 
+  facebook: "https://www.facebook.com/ayush013", 
+  twitter: "https://twitter.com/ayush013", 
 };
 
 export interface IProject {
@@ -182,7 +173,7 @@ export const SKILLS = {
     "react",
     "redux",
     "next",
-    "angular",
+    "bootstrap",
     "gsap",
     "tailwind",
     "sass",
